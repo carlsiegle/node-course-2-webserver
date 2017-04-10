@@ -47,7 +47,7 @@ app.get('/', (req, res) => { // get file, and pas in (request, response)
   //   name: 'Carl',
   //   likes: [
   //     'Kayaking',
-  //     'Hiking'
+  //     'Snowboarding'
   //   ]
   // })
   /* When using Handlbars, we use res.render */
